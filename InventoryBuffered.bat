@@ -1,0 +1,1 @@
+python C:\Users\jordon.AFTCO\PycharmProjects\InventoryManagerFC\main.py
